@@ -28,7 +28,7 @@
 > 非技术人员请直接下载release中的[压缩包](https://github.com/869413421/wechatbot/releases/tag/v1.1.1) ，解压运行。
 ````
 # 获取项目
-git clone https://github.com/869413421/wechatbot.git
+git clone https://github.com/freesky86/wechatbot.git
 
 # 进入项目目录
 cd wechatbot
